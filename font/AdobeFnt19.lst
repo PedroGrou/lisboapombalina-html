@@ -1,0 +1,76 @@
+%!Adobe-FontList 1.19
+%Locale:0x816
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Bold
+FamilyName:Lato
+StyleName:Bold
+FullName:Lato Bold
+MenuName:Lato
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\matil\OneDrive\Ambiente de Trabalho\Website_Soraia\Font\Lato\Lato-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:71056
+FileModTime:1292378400
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Light
+FamilyName:Lato Light
+StyleName:Regular
+FullName:Lato-Light
+MenuName:Lato Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\matil\OneDrive\Ambiente de Trabalho\Website_Soraia\Font\Lato\Lato-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:74936
+FileModTime:1292378400
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Lato Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Regular
+FamilyName:Lato
+StyleName:Regular
+FullName:Lato Regular
+MenuName:Lato
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\matil\OneDrive\Ambiente de Trabalho\Website_Soraia\Font\Lato\Lato-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:72876
+FileModTime:1292378400
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\matil\OneDrive\Ambiente de Trabalho\Website_Soraia\Font\Lato\OFL.txt
+FileModTime:1292378400
+%EndFont
+
